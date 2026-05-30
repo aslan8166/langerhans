@@ -1,0 +1,4 @@
+# Final evidence table template
+
+| Author/year | age | sex | known LCH before ocular finding | ocular presentation | exact site | mass vs diffuse infiltration | laterality | systemic involvement | biopsy site | histopathology/IHC | imaging | treatment | ocular response | final visual acuity | systemic outcome | follow-up duration |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
